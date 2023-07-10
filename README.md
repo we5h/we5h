@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" title="django"  alt="django" width="90" height="90"/>&nbsp;
   <img src="https://simpleicons.org/icons/docker.svg" title="vsc"  alt="vsc" width="90" height="90"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="vsc"  alt="vsc" width="90" height="90"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="fastapi"  alt="vsc" width="90" height="90"/>&nbsp;
   </div>
 
 ---
